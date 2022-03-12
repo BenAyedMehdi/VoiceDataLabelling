@@ -1,8 +1,6 @@
 # Voice Data Labeling System
 
-This project is a desktop application created using C#
-This program deals with audio data 
-This project is currently being used in the research center of the University of Pécs
+- This project is currently being used in the research center of the University of Pécs
 
 ![Alt text](./screenshot.PNG?raw=true "Optional Title")
 
